@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('appApp', [])
+angular.module('ecouponsApp', [])
   .config(['$routeProvider', function ($routeProvider) {
     $routeProvider
       .when('/', {
